@@ -1,3 +1,3 @@
-Tipo	Indicador	Severidad	Descripción
-ip	1.2.3.4	5	IP Maliciosa detectada
-domain	sitio-peligroso.com	3	Dominio de phishing
+TYPE	VALUE	SOURCE	SCORE
+ip	1.2.3.4	 IP Maliciosa detectada 5	
+domain	sitio-peligroso.com	 Dominio de phishing 3	
